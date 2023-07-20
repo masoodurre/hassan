@@ -27,11 +27,11 @@ tr, th {
         margin-top: 1rem;
         cursor: pointer;}
         .pic{
-            border-radius: 10px;
+            border-radius: 20px;
         }
          img:hover{
             box-shadow: 0 0 2px 1px red;
-            border: 4px solid navy;
+            border: 8px solid navy;
             
         }
 
