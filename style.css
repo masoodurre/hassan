@@ -1,0 +1,29 @@
+body{
+    background-image: url(ms.jpg);
+    background-size: cover;
+
+}
+div{
+    font-size: 150%;
+    color: rgb(7, 7, 216)
+
+}
+tr, th {
+    border: 2px;
+}
+
+     button{
+        display: inline-block;
+        padding: 1rem 1.5rem;
+         background: var(--main-color);
+        border-radius: 1rem;
+         box-shadow: 0 0 1rem var(--main-color);
+       font-size: 1rem;
+       color: var(--second-bg-color);
+        letter-spacing: .1rem;
+        font-weight: 200;
+        transition: .6s ease;
+        margin-top: 1rem;
+        cursor: pointer;}
+
+     
