@@ -26,5 +26,13 @@ tr, th {
         transition: .6s ease;
         margin-top: 1rem;
         cursor: pointer;}
+        .pic{
+            border-radius: 10px;
+        }
+         img:hover{
+            box-shadow: 0 0 2px 1px red;
+            border: 4px solid navy;
+            
+        }
 
      
